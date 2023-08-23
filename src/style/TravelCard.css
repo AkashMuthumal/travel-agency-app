@@ -1,0 +1,54 @@
+.travel-card {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    overflow: hidden;
+    margin: 0 20px 0 90px;
+    position: relative;
+}
+
+.travel-card > img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.country-info-container {
+    display: flex;
+    gap: 10px;
+    font-size: 30px;
+    align-items: center;
+}
+
+.country-info-container > img {
+    height: 30px;
+}
+
+.country {
+    letter-spacing: 0.1em;
+}
+
+.view-label {
+    color: #918E9B;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.info-container {
+    margin: 30px 50px;
+    display: grid;
+
+}
+
+.info-container > h1 {
+    font-size: 70px;
+}
+
+.info-container > h4 {
+    font-size: 30px;
+}
+
+.info-container > p {
+    font-size: 30px;
+    color: #2B283A;
+}
