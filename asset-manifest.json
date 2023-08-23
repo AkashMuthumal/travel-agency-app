@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travel-agency-app/static/css/main.a8e9e9c6.css",
+    "main.js": "/travel-agency-app/static/js/main.fa843d9f.js",
+    "static/media/logo.svg": "/travel-agency-app/static/media/logo.10ddb4ca94ecf3a9f9b4a03e41ebeb6e.svg",
+    "index.html": "/travel-agency-app/index.html",
+    "static/media/icon.svg": "/travel-agency-app/static/media/icon.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.a8e9e9c6.css.map": "/travel-agency-app/static/css/main.a8e9e9c6.css.map",
+    "main.fa843d9f.js.map": "/travel-agency-app/static/js/main.fa843d9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e9e9c6.css",
+    "static/js/main.fa843d9f.js"
+  ]
+}
